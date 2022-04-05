@@ -1,6 +1,5 @@
 import config
 import telebot
-from SQLighter import SQLighter
 import time
 import os
 import random

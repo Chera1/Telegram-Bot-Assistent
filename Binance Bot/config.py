@@ -1,0 +1,7 @@
+token_telegram = '984170438:AAEpeddondiZrWIqv0aef_aCHIxY3pOxHoo'
+database_name = 'music.db'
+shelve_name = 'shelve.db'
+api_key_binance = 'mchf4hZ1JQikoNpma0SlNtP7it9Rv8qoo5wyv41ypDIXAVjPrtfBMyVIt6EqLXPG'
+api_secret_binance = 'ZRXG7mMukVpR4YRr6NWyZ5oVGNFFjudjt7eUIoJAPOjlUTFj8U2YeCPBC1Zyy1Re'
+token_tinkoff = 't.GcxDdbEMrdX1gUb6LNzapCMXP_MkqHuIMOIiTAZVObEXxGmCAc9_Ij9rkwHvZTZzrs0FcGRSRXyLIs0gaoyyVA'
+token_tinkoff_full_rights = 't.i7eRIZi2G3Riv1aiXk9RZ1TBWxbpTh_VBUfV009nyDwS7PAVr6MgKQkxd3-r6wn-a6Z5Ob1fYTVlwjQrBa9o8w'
